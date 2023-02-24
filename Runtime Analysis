@@ -1,0 +1,8 @@
+
+Data Structure     | Runtime Analysis 
+-------------------|------------------
+Linked List        |  O(N2) 
+-------------------|------------------
+Hash Table         |  O(N3) 
+-------------------|------------------
+Binary Search Tree |  O(log2N) 
